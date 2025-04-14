@@ -19,7 +19,7 @@ The calculator supports basic arithmetic operations like addition, subtraction, 
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ## Project Structure
 
